@@ -1,8 +1,8 @@
 # Site settings
 title: Ziwei Zhao
 description: 'A second year Computer Science student at Uwaterloo'
-url: 'http://ziweizhao.com'
-baseurl: 'ziweizhao.github.io'
+url: 'ziweizhao.com'
+baseurl: '.'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
