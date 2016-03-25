@@ -3,7 +3,7 @@ title:  "My first post!"
 date:   2016-03-25 11:00:05
 categories: Travel
 tags:Travel
----
+___
 Composing my first blog on the train from Ottawa to Montreal, I feel excited about the new personal website build with Jekyll and host on github page.
 
 This is my fourth year in Canada and second year at Uwaterloo. I had my high school in Delta, which locates in the Big Vancouver Area. I came to University of Waterloo for Computer Science after graduation. Currently I am half way through my coop term as an Software Engineer at Cisco System in Ottawa. 
