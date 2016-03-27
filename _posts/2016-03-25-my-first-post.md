@@ -14,4 +14,4 @@ Travelling is something I am excited about. I tavel a lot, either by my own or w
 
 This little site is intended to be my free land to post and write about ComSci, my life and things I am interested in. I would like to keep it simple and clean. Currently it doesn't support comments but you are more than welcome to email me or contact my through social media linked on the main page.
 
-[jekyll]:  http://jekyllrb.com
+
