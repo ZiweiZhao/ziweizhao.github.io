@@ -2,7 +2,7 @@
 title:  "My first post!"
 date:   2016-03-25 11:04:23
 categories: [travel]
-tags: [travel]
+tags: [travel] [introduction]
 ---
 Composing my first blog on the train from Ottawa to Montreal, I feel excited about the new personal website build with Jekyll and host on github page.
 
