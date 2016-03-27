@@ -1,5 +1,5 @@
 ---
-title:  "My first post on the train to Montreal"
+title:  "My first post!"
 date:   2016-03-25 11:04:23
 categories: [travel]
 tags: [travel]
