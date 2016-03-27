@@ -18,7 +18,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
     
-  if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html' && window.location.href !== '{{ url }}') {
+  if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html' && window.location.href !== 'http://ziweizhao.com') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
