@@ -2,7 +2,7 @@
 title:  "Reflection on 2B term"
 date:   2016-10-04 20:13:23
 categories: [reflection]
-tags: [reflection][studyterm]
+tags: [reflection]
 ---
 Finished my 2B term, also my first term at Computer Science in early August this year. It was such a heavy loaded term, but I enjoyed a lot. 
 
